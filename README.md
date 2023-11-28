@@ -7,5 +7,7 @@ The purpose of this repository is to explore and analyze the impact on air quali
 
 ## Citation
 Air Quality Index Data Accessed from :
-https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2017.zip . Date of Access : 27 November 2023. 
+https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2017.zip . Date of Access : 27 November, 2023. 
 
+USGS Data Pre-processed by Microsoft Planetary Computer Landsat Collection 2 Level-2 atmosperically corrected surface reflectance data:
+https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 . Date of Access: 27 November, 2023. 
