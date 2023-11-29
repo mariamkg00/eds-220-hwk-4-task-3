@@ -15,3 +15,6 @@ https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2017.zip . Date of Access
 
 USGS Data Pre-processed by Microsoft Planetary Computer Landsat Collection 2 Level-2 atmosperically corrected surface reflectance data:
 https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 . Date of Access: 27 November, 2023. 
+
+TIGER Shapefiles from US Census Bureau
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2022.html#list-tab-790442341 . Date of Access : 28 November, 2023.
